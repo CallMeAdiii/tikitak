@@ -1,0 +1,54 @@
+body{
+    background: beige;}
+h2 {
+    color: blue;
+}
+a{
+    color: green;
+}
+h2 {
+    margin-top: 30px;
+}
+section p{
+    background: lightgray;
+    padding: 10px;
+}
+ul a {
+    color: red;
+    text-decoration:none ;
+}
+li:nth-child(even){
+    background: lightblue; opacity: 0.8;
+}
+a:hover{
+    color: orange;
+    font-style: italic;
+    font-weight: bold;
+}
+h1::before {
+    content: "🔥";
+}
+p::first-letter{
+    font-size: 50px;
+    color: red
+}
+p::first-line{
+    font-weight:bold ;
+}
+.bahno{
+    background: lightgray;
+    border-radius: 1px;;
+    padding: 10px;
+    margin-top: 20px;
+}
+*{
+    font-family: Arial;
+
+}
+header{
+    text-align: center;
+}
+
+border-radius{
+    color: black;
+}

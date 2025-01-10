@@ -1,0 +1,17 @@
+.fs-bold{
+    font-weight: bold
+}
+
+    nav > ul {
+    display: flex;
+    list-style: none;
+
+    & li > a {
+        color: green;
+    }
+}
+    img {
+        width: 200px;
+            box-shadow: black 5px 5px 20px;
+        border-radius: 8px;
+    }

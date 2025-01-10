@@ -1,0 +1,21 @@
+a:hover {
+    color: red
+}
+a:visited{
+    color: #ef00ff;
+}
+
+a:active{
+    color:black
+}
+
+li:nth-child(even){
+    color: red;
+}
+
+h2:hover{
+font-style: italic;
+}
+
+
+a.before
